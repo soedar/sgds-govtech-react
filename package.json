@@ -104,8 +104,8 @@
   },
   "dependencies": {
     "@mona-health/react-input-mask": "^3.0.3",
-    "@restart/hooks": "^0.4.6",
-    "@restart/ui": "^1.2.0",
+    "@restart/hooks": "^0.4.16",
+    "@restart/ui": "^1.9.2",
     "@types/invariant": "^2.2.35",
     "@types/react-transition-group": "^4.4.4",
     "classnames": "^2.3.1",
@@ -114,7 +114,6 @@
     "invariant": "^2.2.4",
     "prop-types": "^15.8.1",
     "prop-types-extra": "^1.1.1",
-    "react-bootstrap": "^2.7.2",
     "react-transition-group": "^4.4.2",
     "warning": "^4.0.3"
   },
